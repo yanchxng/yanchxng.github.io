@@ -1,0 +1,28 @@
+.block-demo {
+    background-color: aqua;
+    display: block;
+    /* alt + up or down arrow to move the texts */
+    /* block lets your content display in blocks */
+
+    /* margin-top: 6px;
+    margin-bottom: 6px;
+    margin-left: 0px;
+    margin-right: 0px;  same thing but in a single line */
+    
+    margin: 6px 0;
+}
+
+.inline-demo {
+    display: inline;
+    /* inline lets your content display in a single line */
+    background-color: pink;
+    margin: 6px 0;
+}
+
+.inline-block {
+    display: inline-block;
+    background-color: pink;
+    margin: 6px 0;
+    width: 100px;
+    height: 80px;
+}
